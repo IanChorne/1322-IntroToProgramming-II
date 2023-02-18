@@ -1,0 +1,13 @@
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.exe
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.deps.json
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.runtimeconfig.json
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.runtimeconfig.dev.json
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.dll
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\bin\Debug\netcoreapp3.1\1322 Assignment 10.pdb
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.csprojAssemblyReference.cache
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.AssemblyInfoInputs.cache
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.AssemblyInfo.cs
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.csproj.CoreCompileInputs.cache
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.dll
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.pdb
+C:\Users\Chorne\source\repos\1322 Assignment 10\1322 Assignment 10\obj\Debug\netcoreapp3.1\1322 Assignment 10.genruntimeconfig.cache
