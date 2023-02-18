@@ -1,0 +1,10 @@
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\bin\Debug\1322 Assignment 7.exe.config
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\bin\Debug\1322 Assignment 7.exe
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\bin\Debug\1322 Assignment 7.pdb
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\1322 Assignment 7.csprojAssemblyReference.cache
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\_1322_Assignment_7.Form1.resources
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\_1322_Assignment_7.Properties.Resources.resources
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\1322 Assignment 7.csproj.GenerateResource.cache
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\1322 Assignment 7.csproj.CoreCompileInputs.cache
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\1322 Assignment 7.exe
+C:\Users\Chorne\source\repos\1322 Assignment 7\1322 Assignment 7\obj\Debug\1322 Assignment 7.pdb
