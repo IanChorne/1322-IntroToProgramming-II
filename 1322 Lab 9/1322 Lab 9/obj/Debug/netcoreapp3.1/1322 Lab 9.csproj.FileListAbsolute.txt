@@ -1,0 +1,13 @@
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.exe
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.deps.json
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.runtimeconfig.json
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.runtimeconfig.dev.json
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.dll
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\bin\Debug\netcoreapp3.1\1322 Lab 9.pdb
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.csprojAssemblyReference.cache
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.AssemblyInfoInputs.cache
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.AssemblyInfo.cs
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.dll
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.pdb
+C:\Users\Chorne\source\repos\1322 Lab 9\1322 Lab 9\obj\Debug\netcoreapp3.1\1322 Lab 9.genruntimeconfig.cache
