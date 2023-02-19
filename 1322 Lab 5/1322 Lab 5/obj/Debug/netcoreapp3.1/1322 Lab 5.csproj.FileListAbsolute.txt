@@ -1,0 +1,13 @@
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.exe
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.deps.json
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.runtimeconfig.json
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.runtimeconfig.dev.json
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.dll
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\bin\Debug\netcoreapp3.1\1322 Lab 5.pdb
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.csprojAssemblyReference.cache
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.AssemblyInfoInputs.cache
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.AssemblyInfo.cs
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.dll
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.pdb
+C:\Users\Chorne\source\repos\1322 Lab 5\1322 Lab 5\obj\Debug\netcoreapp3.1\1322 Lab 5.genruntimeconfig.cache
