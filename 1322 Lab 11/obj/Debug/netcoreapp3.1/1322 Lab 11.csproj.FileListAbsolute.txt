@@ -1,0 +1,13 @@
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.exe
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.deps.json
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.runtimeconfig.json
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.runtimeconfig.dev.json
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.dll
+C:\Users\Ian\source\repos\1322 Lab 11\bin\Debug\netcoreapp3.1\1322 Lab 11.pdb
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.csprojAssemblyReference.cache
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.AssemblyInfo.cs
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.dll
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.pdb
+C:\Users\Ian\source\repos\1322 Lab 11\obj\Debug\netcoreapp3.1\1322 Lab 11.genruntimeconfig.cache
